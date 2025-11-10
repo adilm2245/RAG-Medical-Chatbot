@@ -17,3 +17,20 @@ The RAG Chatbot enhances LLM responses by **retrieving relevant knowledge from d
 
 **High-level flow:**
 
+      ┌─────────────┐
+      │  User Query │
+      └─────┬───────┘
+            │
+            ▼
+   ┌─────────────────┐
+   │ Query Embedding │
+   └─────┬───────────┘
+         │
+         ▼
+┌─────────────────────┐
+│ Vector DB Retrieval │
+└─────┬───────────────┘
+      │
+      ▼
+
+
