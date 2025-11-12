@@ -67,8 +67,8 @@ The RAG Chatbot enhances LLM responses by **retrieving relevant knowledge from d
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/rag-chatbot.git
-cd rag-chatbot
+git clone https://github.com/adilm2245/RAG-Medical-Chatbot.git
+cd RAG-Medical-Chatbot
 
 # Create virtual environment
 python -m venv venv
