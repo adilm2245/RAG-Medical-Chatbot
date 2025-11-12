@@ -1,4 +1,4 @@
-# RAG Chatbot  Production-Ready
+# RAG Chatbot  Production Ready
 
 A **Retrieval-Augmented Generation (RAG) Chatbot** that leverages Large Language Models (LLMs) and vector-based document retrieval to deliver accurate, context-aware responses. Designed for production deployments with modular architecture, cloud readiness, and extensible pipelines.
 
